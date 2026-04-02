@@ -1,7 +1,3 @@
 feature-login
 Hello Git from feature-login branch
-Welcome to pull-request concept
-
-Hello Git from master branch
-Hello Git from feature-login branch
-Welcome back
+Welcome to pull-request concept from feature login branch
