@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 Hello Git from master branch test test
+=======
+
+Hello Git from feature-login branch testttt
+Welcome to pull-request concept from feature login branch
+
+check
+Hello Git from master branch test
+>>>>>>> 51ccc1fb03156e13f3731d522240420eaa52d576
 Hello Git from feature-login branch updated from master branch
 Welcome back
 
